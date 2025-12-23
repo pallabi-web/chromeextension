@@ -1,6 +1,9 @@
-## LinkedIn Automation Chrome Extension
-A powerful Chrome Extension (Manifest V3) with Node.js backend that automates LinkedIn profile scraping and feed engagement tasks.
+## Chrome Extension for linkdln data extraction 
+A Chrome Extension (Manifest V3) along with a NodeJS backend (Express + Sequelize) that can:
+- Interact with the active browser tab
+- Navigate and interact with LinkedIn (manual login only)
+- Extract LinkedIn profile data and send it to a backend API
+- Perform controlled feed engagement actions based on user inputs
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46aed952-9d18-491b-bd80-55e236a5dfdd" />
 
 
